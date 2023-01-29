@@ -22,6 +22,9 @@ Some of the services may use location information transmitted from users' mobile
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
+### Contact List Information  
+Some of the services may use your contact list from your phone to create new contact or update contact infromation. 
+
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
 * To facilitate our Service;
